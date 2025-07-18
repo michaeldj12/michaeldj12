@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michaeldj12
-- 👀 I’m interested in ...coding,building website,hacking,
+- 👀 I’m interested in coding, building websites, and ethical hacking.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...coding, web developers.hacking
+- 💞️ I’m looking to collaborate on coding and web development projects.
 - 📫 How to reach me ...
 
 <!---
